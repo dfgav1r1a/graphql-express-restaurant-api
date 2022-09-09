@@ -1,0 +1,25 @@
+{
+  "name": "9-graphql-crud-restaurants",
+  "version": "1.0.0",
+  "description": "GraphQL MIT database backend CRUD week-24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "GraphQL",
+    "MIT",
+    "database",
+    "backend",
+    "CRUD",
+    "week-24"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  }
+}
